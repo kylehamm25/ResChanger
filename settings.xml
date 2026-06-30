@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ResAWidth>2880</ResAWidth>
+  <ResAHeight>1800</ResAHeight>
+  <ResBWidth>2560</ResBWidth>
+  <ResBHeight>1440</ResBHeight>
+  <HotkeyModsValue>3</HotkeyModsValue>
+  <HotkeyKeyValue>80</HotkeyKeyValue>
+</AppSettings>
